@@ -1,0 +1,11 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+contracts/VeloOracle_test.sol
+./tokenlist.json
+out/
+cache/
+.DS_Store
